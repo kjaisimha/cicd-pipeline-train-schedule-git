@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This change is made from laptop
+=======
+This is the first change in the file
+>>>>>>> dce1cb0a1d0d2ba90a0ef2dbb5b4fe73048a0cc5
