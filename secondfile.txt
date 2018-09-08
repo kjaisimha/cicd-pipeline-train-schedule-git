@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 this is the commit made from laptop and file created in latpop
-=======
 this commit is done on cloudserver
->>>>>>> dce1cb0a1d0d2ba90a0ef2dbb5b4fe73048a0cc5
+
